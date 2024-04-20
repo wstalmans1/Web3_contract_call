@@ -24,3 +24,4 @@ SETUP:
 * in .env insert: 
     - INFURA_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxx
     - PRIVATE_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+* in the project folder, insert javascript files with calls
