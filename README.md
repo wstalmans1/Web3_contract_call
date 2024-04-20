@@ -4,12 +4,13 @@ project with scaffolding for smart contract interactions with ethers.js
 
 SETUP:
 
-* mkdir count2_AU
-* cd count2_AU
+* mkdir NameOfFolder
+* cd NameOfFolder
 * npm init -y
 * npm install dotenv
 * touch .env
 * npm install web3
+* mkdir project
 * git init
 * echo "# Project Title" > README.md
 * touch .gitignore
